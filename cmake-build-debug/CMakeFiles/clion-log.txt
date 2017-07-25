@@ -1,4 +1,0 @@
-/home/kasun/program_files/clion/clion-2016.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/kasun/c++_projects/OpenMP_Project
--- Configuring done
--- Generating done
--- Build files have been written to: /home/kasun/c++_projects/OpenMP_Project/cmake-build-debug
