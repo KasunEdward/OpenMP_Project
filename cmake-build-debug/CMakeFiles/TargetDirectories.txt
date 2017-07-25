@@ -1,0 +1,3 @@
+/home/kasun/c++_projects/OpenMP_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kasun/c++_projects/OpenMP_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kasun/c++_projects/OpenMP_Project/cmake-build-debug/CMakeFiles/OpenMP_Project.dir
